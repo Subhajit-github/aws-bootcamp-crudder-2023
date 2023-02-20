@@ -1,0 +1,17 @@
+[
+    {
+        "Notification": {
+            "ComparisonOperator": "GREATER_THAN",
+            "NotificationType": "ACTUAL",
+            "Threshold": 90,
+            "ThresholdType": "PERCENTAGE"
+        },
+        "Subscribers": [
+            {
+                "Address": "subhajitbhattacharya08@gmail.com",
+                "SubscriptionType": "EMAIL"
+            }
+        ]
+    }
+]
+ 
